@@ -15,7 +15,7 @@ dg_google.apiKey = function(api, platform) {
     }
     else { key = config.apiKey[platform]; } // Found the api key.
   }
-  console.log('apiKey', key);
+  //console.log('apiKey', key);
   return key;
   //var key = null;
   //var msg = null;
